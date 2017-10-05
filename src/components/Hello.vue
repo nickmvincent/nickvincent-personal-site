@@ -8,18 +8,20 @@
               <img src="/static/nick_vincents_face.jpg">
             </div>
           </div>
-          <div class="column is-4 name">
+          <div class="column is-4 bordered">
             <p>
-              <span class="title is-bold">Nick Vincent</span>
+              <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p class="tagline">First year Ph.D. student with Dr. Brent Hecht in the <a> People, Space, and Algorithms Research </a> group researching economic implications of AI. </p>
+            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> group researching economic implications of AI. </p>
           </div>
-          <div class="column is-3 followers">
+          <div class="column is-3 bordered">
+            <p>First Year Graduate Student</p>
+            <p><a href="http://tsb.northwestern.edu/"> Technology and Social Behavior Ph.D. program </a><p>
             <p>Northwestern University</p>
-            <p><a> Technology and Social Behavior </a><p>
             <p>Evanston, Illinois</p>
           </div>
-          <div class="column is-3 following">
+          <div class="column is-3 bordered">
+            <p><a> CV </a></p>
             <p> nickvincent@u.northwestern.edu </p>
             <p><a> LinkedIn </a></p>
             <p><a> Github </a></p>
@@ -27,50 +29,27 @@
           </div>
         </div>
       </div>
-      <div class="profile-options">
+      <!--div class="profile-options">
         <div class="tabs is-fullwidth">
           <ul>
             <li class="link is-active"><a><span class="icon"></span> <span>News</span></a></li>
             <li class="link"><a><span class="icon"></span> <span>Publications</span></a></li>
           </ul>
         </div>
-      </div>
+      </div-->
 
-      <div class="box">
-        <!-- Main container -->
-        <nav class="level">
-          <!-- Left side -->
-          <div class="level-left">
-            <div class="level-item">
-              <p class="subtitle is-5">
-                <strong>123</strong> posts
-              </p>
-            </div>
-            <div class="level-item">
-              <p class="control has-addons">
-                <input class="input" type="text" placeholder="Find a post">
-                <button class="button">
-                  Search
-                </button>
-              </p>
-            </div>
-          </div>
 
-          <!-- Right side -->
-          <div class="level-right">
-            <p class="level-item"><strong>All</strong></p>
-            <p class="level-item"><a>Published</a></p>
-            <p class="level-item"><a>Drafts</a></p>
-            <p class="level-item"><a>Deleted</a></p>
-            <p class="level-item"><a class="button is-success">New</a></p>
-          </div>
-        </nav>
-      </div>
-
-      <div class="spacer"></div>
-
-      <div class="columns">
-
+      <div class="columns section">
+        <div class="column is-6">
+          <p class="subtitle"> News </p>
+          <p>Sep. 2017 - Started Ph.D. program at Northwestern</p>
+          <p>Sep. 2016 - Started work at Cloudbakers</p>
+          <p>Sep. 2016 - Moved to Chicago</p>
+        </div>
+        <div class="column is-6">
+          <p class="subtitle"> Publications </p>
+          <p>Deep learning...</p>
+        </div>
       </div>
     </div>
   </div>
@@ -91,18 +70,11 @@ body {
   padding-bottom: 30px;
   font-size: 14px;
 }
-.profile-heading .name {
+.bordered {
   border-right: 1px solid #f1f1f1;
-  margin:-30px 0;
-  padding: 40px 30px 0 30px;
+  border-bottom: 1px solid #f1f1f1;
 }
-.profile-heading .followers, .profile-heading .following {
-  border-right: 1px solid #f1f1f1;
-}
-.profile-heading .likes {
-  margin:-30px 0;
-  padding: 70px 30px;
-}
+
 
 .profile-options {
   background-color: #f1f1f1;
@@ -116,13 +88,7 @@ body {
   font-size: 16px;
   padding-top:2px;
 }
-.tagline {
-  padding:20px 0;
-}
 .avatar {
-  float: right;
-}
-.follow {
   float: right;
 }
 .avatar img {
@@ -130,9 +96,5 @@ body {
 }
 p.title.is-bold {
   font-weight: bold;
-}
-.card .timestamp {
-  float:right;
-  color:#bbb;
 }
 </style>
