@@ -12,7 +12,7 @@
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> group researching economic implications of AI. </p>
+            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> group researching economic implications of AI and ubiquitous sociotechnical systems. </p>
           </div>
           <div class="column is-3 bordered">
             <p>First Year Graduate Student</p>
@@ -40,15 +40,22 @@
 
 
       <div class="columns section">
-        <div class="column is-6">
+        <div class="column is-6" style="padding-left:100px">
           <p class="subtitle"> News </p>
           <p>Sep. 2017 - Started Ph.D. program at Northwestern</p>
-          <p>Sep. 2016 - Started work at Cloudbakers</p>
+          <p>Sep. 2016 - Started work at Cloudbakers as a Cloud Programming Specialist</p>
           <p>Sep. 2016 - Moved to Chicago</p>
+          <p>Jun. 2016 - Research at SPAWAR in San Diego</p>
+          <p>Jun. 2016 - Graduated UCLA</p>
         </div>
         <div class="column is-6">
-          <p class="subtitle"> Publications </p>
-          <p>Deep learning...</p>
+          <p class="subtitle"> Current Work </p>
+          <p>Quantifying the value of user data in Intelligent Systems</p>
+          <br>
+          <p class="subtitle"> Past Work </p>
+          <p>Stier, N., Vincent, N., Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic stroke. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1316-1321). IEEE.</p>
+<p>Vincent, N., Stier, N., Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F., 2015, November. Detection of hyperperfusion on arterial spin labeling using deep learning. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1322-1327). IEEE. </p>
+
         </div>
       </div>
     </div>
