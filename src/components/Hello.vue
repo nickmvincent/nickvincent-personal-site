@@ -21,11 +21,11 @@
             <p>Evanston, Illinois</p>
           </div>
           <div class="column is-3 bordered">
-            <p><a> CV </a></p>
+            <!--p><a> CV </a></p-->
             <p> nickvincent@u.northwestern.edu </p>
-            <p><a> LinkedIn </a></p>
-            <p><a> Github </a></p>
-            <p><a> Twitter </a></p>
+            <p><a href="https://www.linkedin.com/in/nicholas-vincent-93594a81/"> LinkedIn </a></p>
+            <p><a href="https://github.com/nickmvincent"> Github </a></p>
+            <p><a href="https://twitter.com/nickmvincent"> Twitter </a></p>
           </div>
         </div>
       </div>
@@ -40,17 +40,20 @@
 
 
       <div class="columns section">
-        <div class="column is-6" style="padding-left:100px">
-          <p class="subtitle"> News </p>
-          <p>Sep. 2017 - Started Ph.D. program at Northwestern</p>
-          <p>Sep. 2016 - Started work at Cloudbakers as a Cloud Programming Specialist</p>
-          <p>Sep. 2016 - Moved to Chicago</p>
-          <p>Jun. 2016 - Research at SPAWAR in San Diego</p>
-          <p>Jun. 2016 - Graduated UCLA</p>
-        </div>
         <div class="column is-6">
+          <p class="subtitle"> News </p>
+          <p>Sep. 2017 - First day of school! (Ph.D. student at <a href="http://tsb.northwestern.edu/"> Northwestern</a>)</p>
+          <p>Sep. 2016 - Started work at <a href="https://www.cloudbakers.com/">Cloudbakers </a></p>
+          <p>Sep. 2016 - Moved to Chicago</p>
+          <p>Jun. 2016 - Summer Research at <a href="http://www.public.navy.mil/spawar/Pages/default.aspx"> SPAWAR </a> in San Diego through the <a href="https://nreip.asee.org/">NREIP </a>program (back for more)</p>
+          <p>Jun. 2016 - Graduated UCLA! (BS Electrical Engineering)</p>
+          <p>Jun. 2015 - Summer Research at <a href="http://www.public.navy.mil/spawar/Pages/default.aspx"> SPAWAR </a> in San Diego through the <a href="https://nreip.asee.org/">NREIP </a>program</p>
+          <p>Oct. 2014 - Started research at UCLA's Neurovascular Imaging Research Core </p>
+          <p>Sep. 2012 - First day of school! (undergrad at UCLA) </p>
+        </div>
+        <div class="column is-6 is-size-7">
           <p class="subtitle"> Current Work </p>
-          <p>Quantifying the value of user data in Intelligent Systems</p>
+          <p>Understanding the value of user data to intelligent systems</p>
           <br>
           <p class="subtitle"> Past Work </p>
           <p>Stier, N., Vincent, N., Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic stroke. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1316-1321). IEEE.</p>
