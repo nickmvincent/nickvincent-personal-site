@@ -5,17 +5,16 @@
         <div class="columns">
           <div class="column is-2">
             <div class="image is-128x128 avatar">
-              <img src="/static/nick_vincents_face.jpg">
+              <img src="/static/twitt_prof.jpg">
             </div>
           </div>
           <div class="column is-4 bordered">
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> group researching economic implications of AI and ubiquitous sociotechnical systems. </p>
+            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> group researching algorithmic and economic dependencies between free online content and major intelligent technologies. </p>
           </div>
           <div class="column is-3 bordered">
-            <p>First Year Graduate Student</p>
             <p><a href="http://tsb.northwestern.edu/"> Technology and Social Behavior Ph.D. program </a><p>
             <p>Northwestern University</p>
             <p>Evanston, Illinois</p>
@@ -40,8 +39,9 @@
 
 
       <div class="columns section">
-        <div class="column is-6">
-          <p class="subtitle"> News </p>
+        <div class="column is-6 is-size-7">
+          <p class="is-size-5"> News </p> <br>
+          <p>Feb. 2018 - Paper accepted to CHI - and it received a Best Paper Award!</p>
           <p>Sep. 2017 - First day of school! (Ph.D. student at <a href="http://tsb.northwestern.edu/"> Northwestern</a>)</p>
           <p>Sep. 2016 - Started work at <a href="https://www.cloudbakers.com/">Cloudbakers </a></p>
           <p>Sep. 2016 - Moved to Chicago</p>
@@ -52,12 +52,35 @@
           <p>Sep. 2012 - First day of school! (undergrad at UCLA) </p>
         </div>
         <div class="column is-6 is-size-7">
-          <p class="subtitle"> Current Work </p>
-          <p>Understanding the value of user data to intelligent systems</p>
+          <p class="is-size-5"> HCI Publications</p> <br>
+          <ol>
+              <li>
+              <p><b>Vincent, N.</b>, Johnson, I., and Hecht, B. Examining Wikipedia with a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM Conference on Human Factors in Computing Systems 2018</p>
+              <p>* Best paper award (top 1% of submissions) </p>
+              <p>
+              Link to 
+              <a href="http://www.brenthecht.com/publications/chi2018_wikipediavaluetoonlinecommunities.pdf"> Preprint </a>
+              | Link to 
+              <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a> 
+              </p>
+              </li>
+          </ol>
+          
+          
           <br>
-          <p class="subtitle"> Past Work </p>
-          <p>Stier, N., Vincent, N., Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic stroke. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1316-1321). IEEE.</p>
-<p>Vincent, N., Stier, N., Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F., 2015, November. Detection of hyperperfusion on arterial spin labeling using deep learning. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1322-1327). IEEE. </p>
+          <p class="is-size-5"> Past work</p> <br>
+          <ol>
+          <li>
+          <p>Stier, <b>N., Vincent </b>, N., Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic stroke. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1316-1321). IEEE. </p>
+          <a href="http://ieeexplore.ieee.org/document/7359869/">Link to IEEE Explore </a>
+          </li>
+
+          <li>
+          <p><b>Vincent, N.</b>, Stier, N., Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F., 2015, November.  of hyperperfusion on arterial spin labeling using deep learning. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1322-1327). IEEE. </p>
+          <a href="http://ieeexplore.ieee.org/document/7359870/">Link to IEEE Explore </a>
+          </li>
+
+          </ol>
 
         </div>
       </div>
@@ -66,6 +89,8 @@
 </template>
 
 <script>
+export default {
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
