@@ -12,7 +12,7 @@
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> group researching algorithmic and economic dependencies between free online content and major intelligent technologies. </p>
+            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> Group researching algorithmic and economic dependencies between free online content and major intelligent technologies. </p>
           </div>
           <div class="column is-3 bordered">
             <p><a href="http://tsb.northwestern.edu/"> Technology and Social Behavior Ph.D. program </a><p>
@@ -52,31 +52,34 @@
           <p>Sep. 2012 - First day of school! (undergrad at UCLA) </p>
         </div>
         <div class="column is-6 is-size-7">
-          <p class="is-size-5"> HCI Publications</p> <br>
+          <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
               <li>
-              <p><b>Vincent, N.</b>, Johnson, I., and Hecht, B. Examining Wikipedia with a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM Conference on Human Factors in Computing Systems 2018</p>
+              <p>[CHI 2018]<br> <b>Vincent, N.</b>, Johnson, I., and Hecht, B. Examining Wikipedia with a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM Conference on Human Factors in Computing Systems 2018</p>
               <p>* Best paper award (top 1% of submissions) </p>
               <p>
               Link to 
               <a href="http://www.brenthecht.com/publications/chi2018_wikipediavaluetoonlinecommunities.pdf"> Preprint </a>
               | Link to 
               <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a> 
+              | Link to 
+              <a href="https://dl.acm.org/citation.cfm?id=3174140">ACM DL</a> 
+              </p>
               </p>
               </li>
           </ol>
           
           
           <br>
-          <p class="is-size-5"> Past work</p> <br>
+          <p class="is-size-5">Workshop Papers</p> <br>
           <ol>
           <li>
-          <p>Stier, <b>N., Vincent </b>, N., Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic stroke. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1316-1321). IEEE. </p>
+          <p>[BIBM 2015 Workshop on Biomedical Visual Search and Deep Learning]<br> Stier, N., <b> Vincent, N. </b>, Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic stroke. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1316-1321). IEEE. </p>
           <a href="http://ieeexplore.ieee.org/document/7359869/">Link to IEEE Explore </a>
           </li>
 
           <li>
-          <p><b>Vincent, N.</b>, Stier, N., Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F., 2015, November.  of hyperperfusion on arterial spin labeling using deep learning. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1322-1327). IEEE. </p>
+          <p>[BIBM 2015 Workshop on Biomedical Visual Search and Deep Learning]<br> <b>Vincent, N.</b>, Stier, N., Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F., 2015, November. Detection of hyperperfusion on arterial spin labeling using deep learning. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 1322-1327). IEEE. </p>
           <a href="http://ieeexplore.ieee.org/document/7359870/">Link to IEEE Explore </a>
           </li>
 
