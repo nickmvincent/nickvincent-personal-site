@@ -59,7 +59,7 @@
               <p>* Best paper award (top 1% of submissions) </p>
               <p>
               Link to 
-              <a href="http://www.brenthecht.com/publications/chi2018_wikipediavaluetoonlinecommunities.pdf"> Preprint </a>
+              <a href="/static/WikipediaAndOnlineCommunitiesChi18_references_fixed.pdf"> Preprint </a>
               | Link to 
               <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a> 
               | Link to 
