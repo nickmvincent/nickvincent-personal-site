@@ -54,6 +54,13 @@
         <div class="column is-6 is-size-7">
           <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
+          <li>
+              <p>[CSCW 2018]<br>Foong, E., <b>Vincent, N.</b>, Hecht, B., and Gerber, E. (2018) Women (Still) Ask For Less: Gender Differences in Wage-Setting and Occupation in an Online Labor Marketplace. CSCW 2018 / PACM Computer-Supported Cooperative Work and Social Computing, 1 (1). New York : ACM Press.</p>
+              <p>
+                Link to 
+                <a href="http://www.brenthecht.com/publications/cscw2018_upworkgender.pdf"> Preprint </a>
+              </p>
+              </li>
               <li>
               <p>[CHI 2018]<br> <b>Vincent, N.</b>, Johnson, I., and Hecht, B. Examining Wikipedia with a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM Conference on Human Factors in Computing Systems 2018</p>
               <p>* Best paper award (top 1% of submissions) </p>
