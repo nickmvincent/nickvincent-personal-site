@@ -12,7 +12,9 @@
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>Graduate student with <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> in the <a href="http://www.psacomputing.org/"> People, Space, and Algorithms Research </a> Group researching algorithmic and economic dependencies between free online content and major intelligent technologies. </p>
+            <p>Graduate student in the <a href="http://www.psagroup.org/#//"> People, Space, and Algorithms Research Group </a> led by <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> </p> <br>
+            <p> Researching algorithmic and economic dependencies between free online content and major intelligent technologies. </p> <br>
+            <p> Broad research interests include: Human-computer Interaction, Human-Centered Machine Learning, Social Computing </p>
           </div>
           <div class="column is-3 bordered">
             <p><a href="http://tsb.northwestern.edu/"> Technology and Social Behavior Ph.D. program </a><p>
@@ -25,6 +27,7 @@
             <p><a href="https://www.linkedin.com/in/nicholas-vincent-93594a81/"> LinkedIn </a></p>
             <p><a href="https://github.com/nickmvincent"> Github </a></p>
             <p><a href="https://twitter.com/nickmvincent"> Twitter </a></p>
+            <p><a href="public_cv.pdf"> CV (PDF) </a></p>
           </div>
         </div>
       </div>
@@ -41,7 +44,8 @@
       <div class="columns section">
         <div class="column is-6 is-size-7">
           <p class="is-size-5"> News </p> <br>
-          <p>Feb. 2018 - Paper accepted to CHI - and it received a Best Paper Award!</p>
+          <p>Nov. 2018 - Paper accepted to <a href="https://www.icwsm.org/2019/index.php"> ICWSM 2019</a></p>
+          <p>Feb. 2018 - Paper accepted to <a href="https://chi2018.acm.org/"> CHI 2018 </a> - and it received a Best Paper Award!</p>
           <p>Sep. 2017 - First day of school! (Ph.D. student at <a href="http://tsb.northwestern.edu/"> Northwestern</a>)</p>
           <p>Sep. 2016 - Started work at <a href="https://www.cloudbakers.com/">Cloudbakers </a></p>
           <p>Sep. 2016 - Moved to Chicago</p>
@@ -55,6 +59,11 @@
           <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
           <li>
+              <p>[ICWSM 2019]<br><b>Vincent, N.</b>, Johnson, I., Sheehan, P., and Hecht, B. (2019) Measuring the Importance of User-Generated Content to Search Engines. Proceedings of AAAI ICWSM 2019.</p>
+              
+              </li>
+           
+            <li>
               <p>[CSCW 2018]<br>Foong, E., <b>Vincent, N.</b>, Hecht, B., and Gerber, E. (2018) Women (Still) Ask For Less: Gender Differences in Wage-Setting and Occupation in an Online Labor Marketplace. CSCW 2018 / PACM Computer-Supported Cooperative Work and Social Computing, 1 (1). New York : ACM Press.</p>
               <p>
                 Link to 
