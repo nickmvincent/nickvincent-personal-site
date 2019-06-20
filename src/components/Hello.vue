@@ -71,10 +71,10 @@
                 Importance of User-Generated Content to Search Engines. AAAI ICWSM 2019.</p>
               <p>
                 Link to
-                <a href="/static/icwsm2019_ugcinsearch.pdf"> Preprint </a>
+                <a href="/static/icwsm2019_ugcinsearch_arxiv.pdf"> Preprint </a>
                 | Link to
                 <a href="https://github.com/nickmvincent/you-geo-see"> Github repo </a>
-                
+
               </p>
             </li>
             <li>
