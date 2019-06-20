@@ -67,46 +67,49 @@
           <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
             <li>
-              <p>[ICWSM 2019]<br><b>Vincent, N.</b>, Johnson, I., Sheehan, P., and Hecht, B. (2019) Measuring the
-                Importance of User-Generated Content to Search Engines. Proceedings of AAAI ICWSM 2019.</p>
+              <p>[ICWSM 2019]<br><b>Vincent, N.</b>, Johnson, I., Sheehan, P., and Hecht, B. (2019) <br> Measuring the
+                Importance of User-Generated Content to Search Engines. AAAI ICWSM 2019.</p>
               <p>
                 Link to
                 <a href="/static/icwsm2019_ugcinsearch.pdf"> Preprint </a>
+                | Link to
+                <a href="https://github.com/nickmvincent/you-geo-see"> Github repo </a>
+                
               </p>
             </li>
             <li>
-              <p> [The Web Conference 2019] </p> <b>Vincent, N.</b>, Hecht, B., and Sen, S. (2019) “Data Strikes”:
-              Evaluating the Effectiveness of New Forms of Collective Action Against Technology Platforms. Proceedings
-              of The Web Conference 2019.
-              <!--p>
-                Link to 
-                <a href="http://www.brenthecht.com/publications/cscw2018_upworkgender.pdf"> Preprint </a>
-            </p-->
+              <p> [The Web Conference 2019] </p> <b>Vincent, N.</b>, Hecht, B., and Sen, S. (2019) <br> “Data Strikes”:
+              Evaluating the Effectiveness of New Forms of Collective Action Against Technology Platforms. The Web Conference 2019.
+              <p>
+                Link to
+                <a href="https://dl.acm.org/citation.cfm?id=3313742"> ACM Digital Library </a> (now includes HTML version!)
+                | Link to 
+                <a href="https://github.com/nickmvincent/surprise_sandbox"> Github repo </a>
+              </p>
+
+              
             </li>
             <li>
-              <p>[CSCW 2018]<br>Foong, E., <b>Vincent, N.</b>, Hecht, B., and Gerber, E. (2018) Women (Still) Ask For
+              <p>[CSCW 2018]<br>Foong, E., <b>Vincent, N.</b>, Hecht, B., and Gerber, E. (2018) <br> Women (Still) Ask For
                 Less: Gender Differences in Wage-Setting and Occupation in an Online Labor Marketplace. CSCW 2018 / PACM
-                Computer-Supported Cooperative Work and Social Computing, 1 (1). New York : ACM Press.</p>
+                Computer-Supported Cooperative Work and Social Computing.</p>
               <p>
                 Link to
                 <a href="http://www.brenthecht.com/publications/cscw2018_upworkgender.pdf"> Preprint </a>
               </p>
             </li>
             <li>
-              <p>[CHI 2018]<br> <b>Vincent, N.</b>, Johnson, I., and Hecht, B. Examining Wikipedia with a Broader Lens:
-                Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM
-                Conference on Human Factors in Computing Systems 2018</p>
+              <p>[CHI 2018]<br> <b>Vincent, N.</b>, Johnson, I., and Hecht, B. (2018) <br> Examining Wikipedia with a Broader Lens:
+                Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM CHI 2018.</p>
               <p>* Best paper award (top 1% of submissions) </p>
               <p>
                 Link to
                 <a href="/static/WikipediaAndOnlineCommunitiesChi18_references_fixed.pdf"> Preprint </a>
                 | Link to
                 <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a>
-                | Link to
               </p>
             </li>
           </ol>
-
 
           <br>
           <p class="is-size-5">Workshop Papers</p> <br>
@@ -124,9 +127,7 @@
                 arterial spin labeling using deep learning. Bioinformatics and Biomedicine (BIBM) 2015.</p>
               <a href="http://ieeexplore.ieee.org/document/7359870/">Link to IEEE Explore </a>
             </li>
-
           </ol>
-
         </div>
       </div>
     </div>
