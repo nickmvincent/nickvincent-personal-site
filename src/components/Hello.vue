@@ -4,34 +4,35 @@
       <div class="section profile-heading">
         <div class="columns">
           <div class="column is-2">
-            <div class="image is-128x128 avatar">
-              <img src="/static/twitt_prof.jpg">
+            <div class="image is-2by3 avatar">
+              <img src="/static/Headshots-916_Small.jpg">
             </div>
           </div>
-          <div class="column is-4 bordered">
+          <div class="column is-4 bordered-right bordered-bottom">
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>2nd-year PhD student in the <a href="http://www.psagroup.org"> People, Space, and Algorithms Research Group
+            <p>3rd-year PhD student in the <a href="http://www.psagroup.org"> People, Space, and Algorithms Research Group
               </a> led by <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> </p> <br>
-            <p> Primarily researching the relationship between human-generated content and intelligent
-              technologies. </p> <br>
-            <p> Broad research interests include: Human-computer Interaction, Human-Centered Machine Learning, Social
+            <p> Research focus: Studying the relationships between human-generated content and intelligent
+              technologies to mitigate negative impacts of computing. </p> <br>
+            <p> Broad research interests include: Human-Computer Interaction, Human-Centered Machine Learning, Social
               Computing </p>
           </div>
-          <div class="column is-3 bordered">
+          
+          <div class="column is-3 bordered-right bordered-bottom">
             <p><a href="http://tsb.northwestern.edu/"> Technology and Social Behavior Ph.D. program </a>
               <p>
                 <p>Northwestern University</p>
                 <p>Evanston, Illinois</p>
           </div>
-          <div class="column is-3 bordered">
-            <!--p><a> CV </a></p-->
+          <div class="column is-3 bordered-right bordered-bottom">
             <p> nickvincent@u.northwestern.edu </p>
-            <p><a href="https://www.linkedin.com/in/nicholas-vincent-93594a81/"> LinkedIn </a></p>
+            <p><a href="public_cv.pdf"> CV (PDF) </a></p>
             <p><a href="https://github.com/nickmvincent"> Github </a></p>
             <p><a href="https://twitter.com/nickmvincent"> Twitter </a></p>
-            <p><a href="public_cv.pdf"> CV (PDF) </a></p>
+            <p><a href="https://www.linkedin.com/in/nicholas-vincent-93594a81/"> LinkedIn </a></p>
+
           </div>
         </div>
       </div>
@@ -46,7 +47,7 @@
 
 
       <div class="columns section">
-        <div class="column is-6 is-size-7">
+        <!--div class="column is-6 is-size-7">
           <p class="is-size-5"> News </p> <br>
           <p>Nov. 2018 - Paper accepted to <a href="https://www.icwsm.org/2019/index.php"> ICWSM 2019</a></p>
           <p>Feb. 2018 - Paper accepted to <a href="https://chi2018.acm.org/"> CHI 2018 </a> - and it received a Best
@@ -62,8 +63,8 @@
             in San Diego through the <a href="https://nreip.asee.org/">NREIP </a>program</p>
           <p>Oct. 2014 - Started research at UCLA's Neurovascular Imaging Research Core </p>
           <p>Sep. 2012 - First day of school! (undergrad at UCLA) </p>
-        </div>
-        <div class="column is-6 is-size-7">
+        </div-->
+        <div class="column is-12 is-size-7">
           <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
             <li>
@@ -82,9 +83,12 @@
               Evaluating the Effectiveness of New Forms of Collective Action Against Technology Platforms. The Web Conference 2019.
               <p>
                 Link to
-                <a href="https://dl.acm.org/citation.cfm?id=3313742"> ACM Digital Library </a> (now includes HTML version!)
+                <a href="https://dl.acm.org/citation.cfm?id=3313742"> ACM Digital Library </a> (includes PDF and HTML versions)
+                | Link to 
+                <a href="/static/www2019_datastrike.pdf"> PDF </a>
                 | Link to 
                 <a href="https://github.com/nickmvincent/surprise_sandbox"> Github repo </a>
+                
               </p>
 
               
@@ -151,9 +155,11 @@
     font-size: 14px;
   }
 
-  .bordered {
-    border-right: 1px solid #f1f1f1;
-    border-bottom: 1px solid #f1f1f1;
+  .bordered-right {
+    border-right: 2px solid #f1f1f1;
+  }
+  .bordered-bottom {
+    border-bottom: 2px solid #f1f1f1;
   }
 
 
@@ -174,6 +180,7 @@
 
   .avatar {
     float: right;
+    max-width: 124px;
   }
 
   .avatar img {
