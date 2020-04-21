@@ -12,14 +12,15 @@
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>3rd-year PhD student in the <a href="http://www.psagroup.org"> People, Space, and Algorithms Research Group
+            <p>3rd-year PhD student in the <a href="http://www.psagroup.org"> People, Space, and Algorithms Research
+                Group
               </a> led by <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> </p> <br>
             <p> Research focus: Studying the relationships between human-generated content and intelligent
               technologies to mitigate negative impacts of computing. </p> <br>
             <p> Broad research interests include: Human-Computer Interaction, Human-Centered Machine Learning, Social
               Computing </p>
           </div>
-          
+
           <div class="column is-3 bordered-right bordered-bottom">
             <p><a href="http://tsb.northwestern.edu/"> Technology and Social Behavior Ph.D. program </a>
               <p>
@@ -68,7 +69,21 @@
           <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
             <li>
-              <p>[ICWSM 2019]<br><b>Vincent, N.</b>, Johnson, I., Sheehan, P., and Hecht, B. (2019) <br> Measuring the
+              <p>[<a href="http://cscw.acm.org/2019/">CSCW 2019</a>] <br>
+                Li, H. *, <b>Vincent, N. *</b>, Tsai, J., Kaye, J., and Hecht, B. 2019. <br>
+                How Do People Change Their Technology Use in Protest?: Understanding “Protest Users”. In Proceedings of
+                the 2019 Computer-Supported Cooperative Work and Social Computing (CSCW’2019 / PACM). * indicates equal
+                contributions.
+              </p>
+              <p>
+                Link to
+                <a href="http://www.psagroup.org/static/publications/cscw2019_protest_nonuse_camera_ready.pdf"> Preprint
+                </a>
+              </p>
+            </li>
+            <li>
+              <p>[<a href="https://icwsm.org/2019/">ICWSM 2019</a>] <br><b>Vincent, N.</b>, Johnson, I., Sheehan, P.,
+                and Hecht, B. (2019) <br> Measuring the
                 Importance of User-Generated Content to Search Engines. AAAI ICWSM 2019.</p>
               <p>
                 Link to
@@ -79,22 +94,26 @@
               </p>
             </li>
             <li>
-              <p> [The Web Conference 2019] </p> <b>Vincent, N.</b>, Hecht, B., and Sen, S. (2019) <br> “Data Strikes”:
-              Evaluating the Effectiveness of New Forms of Collective Action Against Technology Platforms. The Web Conference 2019.
+              <p>[<a href="https://www2019.thewebconf.org/">The Web Conference 2019</a>] </p> <b>Vincent, N.</b>, Hecht,
+              B., and Sen, S. (2019) <br> “Data Strikes”:
+              Evaluating the Effectiveness of New Forms of Collective Action Against Technology Platforms. The Web
+              Conference 2019.
               <p>
                 Link to
-                <a href="https://dl.acm.org/citation.cfm?id=3313742"> ACM Digital Library </a> (includes PDF and HTML versions)
-                | Link to 
+                <a href="https://dl.acm.org/citation.cfm?id=3313742"> ACM Digital Library </a> (includes PDF and HTML
+                versions)
+                | Link to
                 <a href="/static/www2019_datastrike.pdf"> PDF </a>
-                | Link to 
+                | Link to
                 <a href="https://github.com/nickmvincent/surprise_sandbox"> Github repo </a>
-                
+
               </p>
 
-              
+
             </li>
             <li>
-              <p>[CSCW 2018]<br>Foong, E., <b>Vincent, N.</b>, Hecht, B., and Gerber, E. (2018) <br> Women (Still) Ask For
+              <p>[<a href="http://cscw.acm.org/2018/">CSCW 2018</a>] <br>Foong, E., <b>Vincent, N.</b>, Hecht, B., and
+                Gerber, E. (2018) <br> Women (Still) Ask For
                 Less: Gender Differences in Wage-Setting and Occupation in an Online Labor Marketplace. CSCW 2018 / PACM
                 Computer-Supported Cooperative Work and Social Computing.</p>
               <p>
@@ -103,8 +122,10 @@
               </p>
             </li>
             <li>
-              <p>[CHI 2018]<br> <b>Vincent, N.</b>, Johnson, I., and Hecht, B. (2018) <br> Examining Wikipedia with a Broader Lens:
-                Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM CHI 2018.</p>
+              <p>[<a href="https://chi2018.acm.org/">CHI 2018</a>] <br> <b>Vincent, N.</b>, Johnson, I., and Hecht, B.
+                (2018) <br> Examining Wikipedia with a Broader Lens:
+                Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities. ACM CHI
+                2018.</p>
               <p>* Best paper award (top 1% of submissions) </p>
               <p>
                 Link to
@@ -112,6 +133,22 @@
                 | Link to
                 <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a>
               </p>
+            </li>
+          </ol>
+
+          <br>
+          <p class="is-size-5">Pre-prints</p> <br>
+          <ol>
+            <li>
+              <p>[<a href="https://wikiworkshop.org/2020/">WikiWorkshop 2020 non-archival </a>]<br> <b> Vincent, N. </b> and Hecht, B. A Deeper Investigation of the Importance of Wikipedia Links to the Success of Search Engines. </p>
+              <a href="/static/WikiSerp2020.pdf"> Preprint </a>
+            </li>
+
+            <li>
+              <p><b>Vincent, N., </b> Li, Y., Zha, R. and Hecht, B., 2019. 
+              Mapping the Potential and Pitfalls of" Data Dividends" as a Means of Sharing the Profits of Artificial Intelligence.
+              arXiv preprint arXiv:1912.00757.</p>
+              <a href="https://arxiv.org/abs/1912.00757">Link to arXiv </a>
             </li>
           </ol>
 
@@ -158,6 +195,7 @@
   .bordered-right {
     border-right: 2px solid #f1f1f1;
   }
+
   .bordered-bottom {
     border-bottom: 2px solid #f1f1f1;
   }
