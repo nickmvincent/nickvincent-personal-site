@@ -12,11 +12,11 @@
             <p>
               <span class="subtitle is-bold">Nick Vincent</span>
             </p>
-            <p>3rd-year PhD student in the <a href="http://www.psagroup.org"> People, Space, and Algorithms Research
+            <p>PhD student in the <a href="http://www.psagroup.org"> People, Space, and Algorithms Research
                 Group
               </a> led by <a href="http://www.brenthecht.com/">Dr. Brent Hecht </a> </p> <br>
-            <p> Research focus: Studying the relationships between human-generated content and intelligent
-              technologies to mitigate negative impacts of computing. </p> <br>
+            <p>Research focus: studying the relationships between human-generated data and intelligent technologies 
+               to mitigate negative impacts of computing. </p> <br>
             <p> Broad research interests include: Human-Computer Interaction, Human-Centered Machine Learning, Social
               Computing </p>
           </div>
@@ -29,7 +29,7 @@
           </div>
           <div class="column is-3 bordered-right bordered-bottom">
             <p> nickvincent@u.northwestern.edu </p>
-            <p><a href="public_cv.pdf"> CV (PDF) </a></p>
+            <p><a href="public_cv.pdf"> CV as PDF (updated: Aug 17 2020) </a></p>
             <p><a href="https://github.com/nickmvincent"> Github </a></p>
             <p><a href="https://twitter.com/nickmvincent"> Twitter </a></p>
             <p><a href="https://www.linkedin.com/in/nicholas-vincent-93594a81/"> LinkedIn </a></p>
@@ -37,47 +37,45 @@
           </div>
         </div>
       </div>
-      <!--div class="profile-options">
-        <div class="tabs is-fullwidth">
-          <ul>
-            <li class="link is-active"><a><span class="icon"></span> <span>News</span></a></li>
-            <li class="link"><a><span class="icon"></span> <span>Publications</span></a></li>
-          </ul>
-        </div>
-      </div-->
 
 
       <div class="columns section">
-        <!--div class="column is-6 is-size-7">
-          <p class="is-size-5"> News </p> <br>
-          <p>Nov. 2018 - Paper accepted to <a href="https://www.icwsm.org/2019/index.php"> ICWSM 2019</a></p>
-          <p>Feb. 2018 - Paper accepted to <a href="https://chi2018.acm.org/"> CHI 2018 </a> - and it received a Best
-            Paper Award!</p>
-          <p>Sep. 2017 - First day of school! (Ph.D. student at <a href="http://tsb.northwestern.edu/">
-              Northwestern</a>)</p>
-          <p>Sep. 2016 - Started work at <a href="https://www.cloudbakers.com/">Cloudbakers </a></p>
-          <p>Sep. 2016 - Moved to Chicago</p>
-          <p>Jun. 2016 - Summer Research at <a href="http://www.public.navy.mil/spawar/Pages/default.aspx"> SPAWAR </a>
-            in San Diego through the <a href="https://nreip.asee.org/">NREIP </a>program (back for more)</p>
-          <p>Jun. 2016 - Graduated UCLA! (BS Electrical Engineering)</p>
-          <p>Jun. 2015 - Summer Research at <a href="http://www.public.navy.mil/spawar/Pages/default.aspx"> SPAWAR </a>
-            in San Diego through the <a href="https://nreip.asee.org/">NREIP </a>program</p>
-          <p>Oct. 2014 - Started research at UCLA's Neurovascular Imaging Research Core </p>
-          <p>Sep. 2012 - First day of school! (undergrad at UCLA) </p>
-        </div-->
         <div class="column is-12 is-size-7">
+          <p class="is-size-5"> News </p> <br>
+          <ul>
+            <li>
+              <p> July 2020: Our work on "data strikes" was covered in a recent <a
+                  href="https://qz.com/1883697/is-it-time-for-netflix-subscribers-to-go-on-strike/"> Quartz article.
+                </a> </p>
+            </li>
+
+            <li>
+              <p> June 2020: I was part of a panel that presented work on "Data Dividends for California" at
+                the RadicalxChange conference (<a
+                  href="https://www.youtube.com/watch?v=77SD6r2jVhw&list=PLV_W9wE6WVDjwfcaFTAB7UXoJLesgBdVU&index=44">Video Link
+                  </a> and <a href="https://www.datadividends.org/">Website link</a>).
+
+              </p>
+            </li>
+            <li>
+              <p> March 2020: I started a research internship with the Computational Social Science team at <a
+                  href="https://research.snap.com/"> Snap Research.</a></p>
+            </li>
+          </ul>
+          <br>
+
           <p class="is-size-5"> Peer-reviewed Publications</p> <br>
           <ol>
             <li>
               <p>[<a href="http://cscw.acm.org/2019/">CSCW 2019</a>] <br>
-                Li, H. *, <b>Vincent, N. *</b>, Tsai, J., Kaye, J., and Hecht, B. 2019. <br>
-                How Do People Change Their Technology Use in Protest?: Understanding “Protest Users”. In Proceedings of
-                the 2019 Computer-Supported Cooperative Work and Social Computing (CSCW’2019 / PACM). * indicates equal
+                Li, H. *, <b>Vincent, N. *</b>, Tsai, J., Kaye, J., and Hecht, B. (2019) <br>
+                How Do People Change Their Technology Use in Protest?: Understanding “Protest Users”. CSCW 2019 / PACM
+                Computer-Supported Cooperative Work and Social Computing. * indicates equal
                 contributions.
               </p>
               <p>
                 Link to
-                <a href="http://www.psagroup.org/static/publications/cscw2019_protest_nonuse_camera_ready.pdf"> Preprint
+                <a href="http://www.psagroup.org/static/publications/cscw2019_protest_nonuse_camera_ready.pdf"> PDF Preprint
                 </a>
               </p>
             </li>
@@ -87,7 +85,7 @@
                 Importance of User-Generated Content to Search Engines. AAAI ICWSM 2019.</p>
               <p>
                 Link to
-                <a href="/static/icwsm2019_ugcinsearch_arxiv.pdf"> Preprint </a>
+                <a href="/static/icwsm2019_ugcinsearch_arxiv.pdf"> PDF Preprint </a>
                 | Link to
                 <a href="https://github.com/nickmvincent/you-geo-see"> Github repo </a>
 
@@ -103,7 +101,7 @@
                 <a href="https://dl.acm.org/citation.cfm?id=3313742"> ACM Digital Library </a> (includes PDF and HTML
                 versions)
                 | Link to
-                <a href="/static/www2019_datastrike.pdf"> PDF </a>
+                <a href="/static/www2019_datastrike.pdf"> PDF Preprint </a>
                 | Link to
                 <a href="https://github.com/nickmvincent/surprise_sandbox"> Github repo </a>
 
@@ -118,7 +116,7 @@
                 Computer-Supported Cooperative Work and Social Computing.</p>
               <p>
                 Link to
-                <a href="http://www.brenthecht.com/publications/cscw2018_upworkgender.pdf"> Preprint </a>
+                <a href="http://www.brenthecht.com/publications/cscw2018_upworkgender.pdf"> PDF Preprint </a>
               </p>
             </li>
             <li>
@@ -129,7 +127,7 @@
               <p>* Best paper award (top 1% of submissions) </p>
               <p>
                 Link to
-                <a href="/static/WikipediaAndOnlineCommunitiesChi18_references_fixed.pdf"> Preprint </a>
+                <a href="/static/WikipediaAndOnlineCommunitiesChi18_references_fixed.pdf"> PDF Preprint </a>
                 | Link to
                 <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a>
               </p>
@@ -137,34 +135,46 @@
           </ol>
 
           <br>
-          <p class="is-size-5">Pre-prints</p> <br>
+          <p class="is-size-5">Workshop Papers and Other Preprints</p> <br>
           <ol>
             <li>
-              <p>[<a href="https://wikiworkshop.org/2020/">WikiWorkshop 2020 non-archival </a>]<br> <b> Vincent, N. </b> and Hecht, B. A Deeper Investigation of the Importance of Wikipedia Links to the Success of Search Engines. </p>
-              <a href="/static/WikiSerp2020.pdf"> Preprint </a>
+              <p>[<a href="https://ci2020.weebly.com/">Collective Intelligence 2020 (non-archival) </a>]<br> <b>
+                  Vincent, N. </b> and Hecht, B. (2020) <br> Can “Conscious Data Contribution” Help Users to Exert “Data Leverage”
+                Against Technology Companies? ACM Collective Intelligence 2020.</p>
+            <p> Link to
+              <a href="http://www.brenthecht.com/publications/CollectiveIntelligence2020_ConsciousDataContribution.pdf">
+                PDF Preprint </a>
+                </p>
             </li>
 
             <li>
-              <p><b>Vincent, N., </b> Li, Y., Zha, R. and Hecht, B., 2019. 
-              Mapping the Potential and Pitfalls of" Data Dividends" as a Means of Sharing the Profits of Artificial Intelligence.
-              arXiv preprint arXiv:1912.00757.</p>
-              <a href="https://arxiv.org/abs/1912.00757">Link to arXiv </a>
+              <p>[<a href="https://wikiworkshop.org/2020/">WikiWorkshop 2020 (non-archival) </a>]<br> <b> Vincent, N.
+                </b> and Hecht, B. (2020) <br> A Deeper Investigation of the Importance of Wikipedia Links to the Success of Search Engines. WikiWorkshop 2020.
+                 </p>
+                <p> Link to
+              <a href="/static/WikiSerp2020.pdf"> PDF Preprint </a>
+              </p>
             </li>
-          </ol>
 
-          <br>
-          <p class="is-size-5">Workshop Papers</p> <br>
-          <ol>
+            <li>
+              <p>[arXiv Preprint]<br><b>Vincent, N., </b> Li, Y., Zha, R. and Hecht, B., (2019) <br>
+                Mapping the Potential and Pitfalls of" Data Dividends" as a Means of Sharing the Profits of Artificial
+                Intelligence.
+                arXiv preprint arXiv:1912.00757.</p>
+                <p> Link to
+              <a href="https://arxiv.org/abs/1912.00757">arXiv page </a>
+              </p>
+            </li>
             <li>
               <p>[BIBM 2015 Workshop on Biomedical Visual Search and Deep Learning]<br> Stier, N., <b> Vincent, N. </b>,
-                Liebeskind, D. and Scalzo, F., 2015, November. Deep learning of tissue fate features in acute ischemic
+                Liebeskind, D. and Scalzo, F., (2015). <br> Deep learning of tissue fate features in acute ischemic
                 stroke. Bioinformatics and Biomedicine (BIBM) 2015. </p>
               <a href="http://ieeexplore.ieee.org/document/7359869/">Link to IEEE Explore </a>
             </li>
 
             <li>
               <p>[BIBM 2015 Workshop on Biomedical Visual Search and Deep Learning]<br> <b>Vincent, N.</b>, Stier, N.,
-                Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F., 2015, November. Detection of hyperperfusion on
+                Yu, S., Liebeskind, D.S., Wang, D.J. and Scalzo, F. (2015) <br> Detection of hyperperfusion on
                 arterial spin labeling using deep learning. Bioinformatics and Biomedicine (BIBM) 2015.</p>
               <a href="http://ieeexplore.ieee.org/document/7359870/">Link to IEEE Explore </a>
             </li>
