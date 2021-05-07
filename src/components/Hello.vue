@@ -66,16 +66,15 @@
               "data dignity"</a
             >,
             <a href="http://radicalmarkets.com/chapters/data-as-labor/">
-              "data as labor" </a
-            >, <a href="/static/data_leverage.pdf"> "data leverage" </a>, and
-            <a href="https://www.datadividends.org/"> "data dividends" </a>.
+              "data as labor"</a
+            >, <a href="/static/data_leverage.pdf"> "data leverage"</a>, and
+            <a href="https://www.datadividends.org/"> "data dividends"</a>.
           </p>
           <p>
             Should you prefer a more classic computer science personal website
-            experience, append "/static/nojs.html" to your URL or click this <a href="/static/nojs.html"> link</a>.
+            experience, append "/static/nojs.html" to your URL or click this
+            <a href="/static/nojs.html"> link</a>.
           </p>
-
-          <p></p>
         </div>
       </div>
 
@@ -89,7 +88,7 @@
                 <a
                   href="https://www.bloomberg.com/news/articles/2021-05-05/facebook-and-others-should-pay-us-for-our-data-here-s-one-way"
                 >
-                  Bloomberg</a
+                  Bloomberg.</a
                 >
               </p>
               <p>
@@ -100,12 +99,12 @@
 
             <li>
               <p>
-                Data leverage in
+                Data leverage in the
                 <a
                   href="https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/"
                 >
-                  MIT Technology Review</a
-                >.
+                  MIT Technology Review.</a
+                >
               </p>
               <p>
                 Karen Hao, "How to poison the data that Big Tech uses to surveil
@@ -119,7 +118,7 @@
                 <a
                   href="https://fortune.com/2021/02/23/your-data-is-a-weapon-that-can-help-change-corporate-behavior/"
                 >
-                  Fortune
+                  Fortune.
                 </a>
               </p>
               <p>
@@ -129,8 +128,8 @@
                 <a
                   href="https://technews.acm.org/archives.cfm?fo=2021-02-feb/feb-24-2021.html"
                 >
-                  ACM Technews</a
-                >.
+                  ACM TechNews.</a
+                >
               </p>
             </li>
 
@@ -140,7 +139,7 @@
                 <a
                   href="https://qz.com/1883697/is-it-time-for-netflix-subscribers-to-go-on-strike/"
                 >
-                  Quartz
+                  Quartz.
                 </a>
               </p>
               <p>
@@ -151,22 +150,21 @@
 
             <li>
               <p>
-                My PhD adviser discussed our work on the value of Wikipedia in
-                the
+                Value of Wikipedia in the
                 <a
                   href="https://www.nytimes.com/2018/03/19/business/media/youtube-wikipedia.html"
                 >
-                  New York Times</a
-                >.
+                  New York Times.</a
+                >
               </p>
               John Herrman, "YouTube May Add to the Burdens of Humble
-              Wikipedia", March 2018. This research was also covered on the
-              Northwestern Computer Science
+              Wikipedia", March 2018. This was also covered on the Northwestern
+              Computer Science
               <a
                 href="https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2018/hecht-vincent-johnson-research-featured-in-new-york-times-article.html"
               >
-                website</a
-              >.
+                website.</a
+              >
             </li>
           </ol>
         </div>
@@ -201,10 +199,11 @@
               <a href="https://blog.datadividendproject.com/data-strikes/"
                 >"Data Strikes": A New Form of Leverage for Tech Users?
               </a>
-              (Guest post on the
+              Guest post on the
               <a href="https://blog.datadividendproject.com/">
-                Data Dividend Project blog </a
-              >) Sep 2020.
+                Data Dividend Project blog.</a
+              >
+              September 2020.
             </li>
           </ol>
 
@@ -215,14 +214,14 @@
               <a
                 href="https://radicalxchange-s.simplecast.com/episodes/yakov-feygin-and-nick-vincent-data-dividends-cr25oF5m"
               >
-                "On Data Dividends - RadicalxChange Podcast"</a
+                On Data Dividends - RadicalxChange Podcast</a
               >. With Yakov Feygin and Matt Prewitt, May 2021.
             </li>
 
             <li>
               (Video)
               <a href="https://www.youtube.com/watch?v=eRo6mff6vLY">
-                "Data Agency: Individual or Shared?"</a
+                Data Agency: Individual or Shared?</a
               >
               With Matt Prewitt, Kaliya Young, and Jennifer Lyn Morone, Jan
               2021.
@@ -231,7 +230,7 @@
             <li>
               (Video)
               <a href="https://youtu.be/77SD6r2jVhw">
-                "Data Driven Economy for All - 2020 RxC Conference"</a
+                Data Driven Economy for All - 2020 RxC Conference</a
               >. With Hanlin Li, Yakov Feygin, and Brent Hecht. July 2020.
             </li>
           </ol>
@@ -252,8 +251,10 @@
                 <p>
                   CEAM: The Effectiveness of Cyclic and Ephemeral Attention
                   Models of User Behavior on Social Platforms. To Appear in
-                  Proceedings of the 15th International AAAI Conference on Web
-                  and Social Media (ICWSM).
+                  <i>
+                    Proceedings of the 15th International AAAI Conference on Web
+                    and Social Media (ICWSM) </i
+                  >.
                 </p>
               </div>
               <div>
@@ -323,9 +324,11 @@
                 </p>
                 <p>
                   AdverTiming Matters: Examining User Ad Consumption for
-                  Effective Ad Allocations on Social Media. To appear in
-                  Proceedings of the 2021 CHI Conference on Human Factors in
-                  Computing Systems.
+                  Effective Ad Allocations on Social Media.
+                  <i>
+                    Proceedings of the 2021 CHI Conference on Human Factors in
+                    Computing Systems </i
+                  >.
                 </p>
               </div>
               <div class="links">
@@ -631,21 +634,6 @@ body {
   border-bottom: 2px solid #f1f1f1;
 }
 
-.profile-options {
-  background-color: #f1f1f1;
-  margin: -20px 0 20px 0;
-}
-
-.profile-options .link a {
-  padding: 18px;
-  font-size: 18px;
-}
-
-.profile-options .link .icon {
-  font-size: 16px;
-  padding-top: 2px;
-}
-
 .avatar {
   float: right;
   max-width: 124px;
@@ -657,5 +645,9 @@ body {
 
 p.title.is-bold {
   font-weight: bold;
+}
+
+.columns {
+  margin-left: 10px;
 }
 </style>
