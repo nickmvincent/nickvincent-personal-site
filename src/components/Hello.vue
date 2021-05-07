@@ -84,11 +84,13 @@
                 Can “Conscious Data Contribution” Help Users to Exert “Data Leverage” Against Technology Companies? 
                 To Appear in <i>CSCW 2021 / PACM Computer-Supported Cooperative Work and Social Computing</i>.
               </p>
-              <!--p>
+              <p>
                 Link to
-                <a href="http://www.psagroup.org/static/publications/cscw2019_protest_nonuse_camera_ready.pdf"> PDF Preprint
+                <a href="/static/cdc_cscw.pdf"> PDF Preprint
+                </a> |
+                <a href="https://github.com/nickmvincent/cdc"> Archived Code
                 </a>
-              </p-->
+              </p>
             </li>
 
             <li>
@@ -97,11 +99,15 @@
                 A Deeper Investigation of the Importance of Wikipedia Links to Search Engine Results
                 To Appear in <i>CSCW 2021 / PACM Computer-Supported Cooperative Work and Social Computing</i>.
               </p>
-              <!--p>
+              <p>
                 Link to
-                <a href="http://www.psagroup.org/static/publications/cscw2019_protest_nonuse_camera_ready.pdf"> PDF Preprint
+                <a href="/static/wikiserp_cscw.pdf"> PDF Preprint
+                </a> |
+                <a href="https://github.com/nickmvincent/se-scraper"> Archived Code
+                </a> |
+                <a href="https://github.com/nickmvincent/LinkCoordMin"> Newer SERP Collection Code (recommended if you want to collect data)
                 </a>
-              </p-->
+              </p>
             </li> 
 
             <li>
@@ -153,7 +159,7 @@
                 Link to
                 <a href="/static/icwsm2019_ugcinsearch_arxiv.pdf"> PDF Preprint </a>
                 | Link to
-                <a href="https://github.com/nickmvincent/you-geo-see"> Github repo </a>
+                <a href="https://github.com/nickmvincent/you-geo-see"> Archived code </a>
 
               </p>
             </li>
@@ -169,7 +175,7 @@
                 | Link to
                 <a href="/static/www2019_datastrike.pdf"> PDF Preprint </a>
                 | Link to
-                <a href="https://github.com/nickmvincent/surprise_sandbox"> Github repo </a>
+                <a href="https://github.com/nickmvincent/surprise_sandbox"> Archived code </a>
 
               </p>
 
@@ -195,7 +201,7 @@
                 Link to
                 <a href="/static/WikipediaAndOnlineCommunitiesChi18_references_fixed.pdf"> PDF Preprint </a>
                 | Link to
-                <a href="https://github.com/nickmvincent/ugc-val-est">Github repo </a>
+                <a href="https://github.com/nickmvincent/ugc-val-est">Archived code </a>
               </p>
             </li>
           </ol>
